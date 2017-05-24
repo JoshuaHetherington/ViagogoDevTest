@@ -1,0 +1,6 @@
+c:\users\fierce\documents\visual studio 2017\Projects\Viagogo\Viagogo\bin\Debug\Viagogo.exe.config
+c:\users\fierce\documents\visual studio 2017\Projects\Viagogo\Viagogo\bin\Debug\Viagogo.exe
+c:\users\fierce\documents\visual studio 2017\Projects\Viagogo\Viagogo\bin\Debug\Viagogo.pdb
+c:\users\fierce\documents\visual studio 2017\Projects\Viagogo\Viagogo\obj\Debug\Viagogo.exe
+c:\users\fierce\documents\visual studio 2017\Projects\Viagogo\Viagogo\obj\Debug\Viagogo.pdb
+C:\Users\Fierce\documents\visual studio 2017\Projects\Viagogo\Viagogo\obj\Debug\Viagogo.csprojResolveAssemblyReference.cache
